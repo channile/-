@@ -38,4 +38,7 @@ pip install requests
 * 删除了对通知推送的支持，删除日志导出、控制台导出  
 
 ## 部署 
-* 部署到腾讯云函数平台[云函数 使用控制台创建一个事件函数](https://cloud.tencent.com/document/product/583/37509)
+* 部署到腾讯云函数平台[云函数 使用控制台创建一个事件函数](https://cloud.tencent.com/document/product/583/37509)  
+
+## 致谢
+* 感谢 @hwkxk 的开放源代码
