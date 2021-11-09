@@ -41,4 +41,4 @@ pip install requests
 * 部署到腾讯云函数平台[云函数 使用控制台创建一个事件函数](https://cloud.tencent.com/document/product/583/37509)  
 
 ## 致谢
-* 感谢 @hwkxk 的开放源代码
+* 感谢 [@hwkxk](https://github.com/hwkxk) 的开放源代码
